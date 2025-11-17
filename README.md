@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/ZKTvQ8F.gif" width="100%" alt="Banner"/>
+</p>
+
 <!-- Title -->
 <h1 align="center" style="font-weight:700; font-size: 42px;">
   Hi, I'm <span style="color:#00C2FF;">Tanweel Akhtar</span>  
