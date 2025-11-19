@@ -86,11 +86,10 @@ const tanweel = {
 ## 📊 **GitHub Stats**
 
 <p>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TANWEELAKHTAR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TANWEELAKHTAR&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </p>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TANWEELAKHTAR&theme=algolia&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
 
 </div>
 
